@@ -157,17 +157,27 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<div align="center">
+
+### 📈 Contribution Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alvarizqi09&theme=tokyonight)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alvarizqi09&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvarizqi09&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alvarizqi09&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alvarizqi09&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🔥 Streak Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=Alvarizqi09&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
