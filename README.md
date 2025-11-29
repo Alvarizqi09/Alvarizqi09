@@ -39,7 +39,7 @@ const alvarizqi = {
     },
     
     workExperience: [
-        { company: "Bank Rakyat Indonesia", role: "Front-End Developer", period: "Aug 2024 - Present" },
+        { company: "Bank Rakyat Indonesia", role: "Front-End Developer", period: "Aug 2025 - Present" },
         { company: "Telkom Indonesia", role: "Front-end Developer Intern", period: "Feb-Jun 2024" },
         { company: "Alterra Academy", role: "Student Developer", period: "Aug-Dec 2023" }
     ],
@@ -157,20 +157,17 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<a href="https://github.com/Alvarizqi09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=320" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<br/>
-
-<a href="https://github.com/Alvarizqi09">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -184,7 +181,7 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 ### 🎯 Professional Milestones
 
-- 💼 **Bank Rakyat Indonesia** - Front-End Developer (Aug 2025 - Present)
+- 💼 **Bank Rakyat Indonesia** - Front-End Developer (Aug 2024 - Present)
   - Currently developing enterprise-level banking applications
   - Implementing modern frontend architectures and best practices
   
