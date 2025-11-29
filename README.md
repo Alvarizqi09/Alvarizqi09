@@ -191,7 +191,7 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 ### 🎯 Professional Milestones
 
-- 💼 **Bank Rakyat Indonesia** - Front-End Developer (Aug 2024 - Present)
+- 💼 **Bank Rakyat Indonesia** - Front-End Developer (Aug 2025 - Present)
   - Currently developing enterprise-level banking applications
   - Implementing modern frontend architectures and best practices
   
