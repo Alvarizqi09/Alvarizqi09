@@ -158,12 +158,17 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Alvarizqi09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=320" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true)
+<br/>
+
+<a href="https://github.com/Alvarizqi09">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
