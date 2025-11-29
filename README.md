@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Alvarizqi!
 
-### 💻 Front-End Web Developer | 🎨 UI/UX Enthusiast | 🚀 Building Digital Experiences
+### 💻 Front-End Web Developer | 🚀 Building Digital Experiences
 
 *"Building the web, one pixel at a time. Let's make the digital world a more beautiful place together!"*
 
@@ -29,16 +29,17 @@ const alvarizqi = {
     currentFocus: [
         "Building seamless, visually stunning web experiences",
         "Deepening skills in Next.js and Laravel",
-        "Transforming innovative ideas into user-centric designs"
+        "Transforming innovative ideas into production-ready applications"
     ],
     
     expertise: {
-        design: ["Wireframing", "Prototyping", "UI/UX Design"],
-        development: ["React", "Vue.js", "Next.js", "Laravel"],
-        tools: ["Figma", "Canva", "Corel Draw"]
+        frontend: ["React", "Vue.js", "Next.js", "TypeScript"],
+        backend: ["Laravel", "Node.js", "Express"],
+        styling: ["TailwindCSS", "Bootstrap"]
     },
     
     workExperience: [
+        { company: "Bank Rakyat Indonesia", role: "Front-End Developer", period: "Aug 2024 - Present" },
         { company: "Telkom Indonesia", role: "Front-end Developer Intern", period: "Feb-Jun 2024" },
         { company: "Alterra Academy", role: "Student Developer", period: "Aug-Dec 2023" }
     ],
@@ -158,12 +159,9 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvarizqi09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
-
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarizqi09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alvarizqi09&theme=tokyonight&hide_border=true)
 
@@ -181,6 +179,10 @@ The most reliable and user-friendly URL shortening service with advanced analyti
 
 ### 🎯 Professional Milestones
 
+- 💼 **Bank Rakyat Indonesia** - Front-End Developer (Aug 2025 - Present)
+  - Currently developing enterprise-level banking applications
+  - Implementing modern frontend architectures and best practices
+  
 - 💼 **Telkom Indonesia** - Front-end Web Developer Intern (Feb-Jun 2024)
   - Developed and deployed 20+ new features for BNI and Bank Mandiri projects
   - Implemented superior monitoring & evaluation (monev) features
@@ -216,14 +218,14 @@ const currentGoals2025 = {
 
 ---
 
-## 🎨 Design Philosophy
+## 🎨 Development Philosophy
 
-> *"I specialize in wireframing, prototyping, and turning innovative ideas into user-centric designs. With hands-on experience across the full development stack, I believe great products are born from the perfect marriage of beautiful design and solid code."*
+> *"With hands-on experience across the full development stack, I believe great products are born from the perfect marriage of clean code, optimal performance, and seamless user experiences. Every line of code matters."*
 
 <div align="center">
 
 ### My Approach:
-**User First** 👥 • **Pixel Perfect** 🎯 • **Performance Optimized** ⚡ • **Accessible** ♿
+**Clean Code** 💎 • **Performance First** ⚡ • **Scalable Architecture** 🏗️ • **Best Practices** ✅
 
 </div>
 
