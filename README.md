@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-alvarizqi.com-FF6B6B?style=for-the-badge)](https://alvarizqi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarizqi/)
-[![Instagram](https://img.shields.io/badge/Instagram-@Alvarizqi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/alvarizqi_](https://www.instagram.com/alvarizqi__/))
+[![Instagram](https://img.shields.io/badge/Instagram-@Alvarizqi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvarizqi__/)
 [![Email](https://img.shields.io/badge/Email-Alvarizqi80@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alvarizqi80@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alvarizqi09&color=blueviolet&style=for-the-badge)
